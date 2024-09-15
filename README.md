@@ -58,6 +58,6 @@
 
     This will launch the GUI interface for the Food Munch system, where customers can scan their QR codes and start ordering food from their table.
    
-This README includes all the necessary instructions and commands to get started with the project, including how to run it and the project structure. Let me know if you'd like any changes!
+This README includes all the necessary instructions and commands to get started with the project. Let me know if you'd like any changes!
 
 
