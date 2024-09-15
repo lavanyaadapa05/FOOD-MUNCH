@@ -37,7 +37,6 @@
 4. Install the required dependencies:
     ```bash
     pip install tkinter
-    pip install qrcode[pil]  # For generating and handling QR codes
     ```
 
 ## ▶️ How to Run the Project
